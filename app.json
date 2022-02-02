@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ct-reactnative",
-    "slug": "ct-reactnative",
+    "name": "Jatodian SE",
+    "slug": "jatodian-se",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rotimioperator.jatodianse"
     },
     "web": {
       "favicon": "./assets/favicon.png"
