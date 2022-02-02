@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/RotimiOperator/ct-reactnative.git
 cd ct-reactnative
+npm install
 expo start
 ```
 
