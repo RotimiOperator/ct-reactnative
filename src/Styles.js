@@ -37,7 +37,15 @@ export default StyleSheet.create({
       shadowColor: '#333',
       borderRadius: 5,
     },
-    mood: {
+    purple_card: {
+      backgroundColor: '#f888e9',
+      padding: 10,
+      fontSize: 14,
+      marginTop: 20,
+      shadowColor: '#333',
+      borderRadius: 5,
+    },
+    icon: {
       fontSize: 30,
     },
     name: {
@@ -46,7 +54,17 @@ export default StyleSheet.create({
       padding: 10,
       textAlign: 'left',
     },
-    position: {
+    name_info: {
+      backgroundColor: '#ffe40b',
+      borderRadius: 10,
+      fontSize: 14,
+      fontWeight: '700',
+      padding: 10,
+      marginLeft: '60%',
+      textAlign: 'right',
+      position: 'absolute',
+    },
+    desc: {
       fontSize: 14,
       fontWeight: '600',
       padding: 10,
