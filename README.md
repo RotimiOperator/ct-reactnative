@@ -20,4 +20,10 @@ expo start
 
 # Project Screenshot (ReactJS & ReactNative)
 
+- Instruction to install is in their respective repo ReamMe files 
+
+ - GitHub (ReactJS Version): https://github.com/RotimiOperator/ct-reactjs 
+
+ - GitHub (React Native Version): https://github.com/RotimiOperator/ct-reactnative 
+
 ![React App](https://user-images.githubusercontent.com/18402496/152697412-fa830b4c-8b8b-4fc7-88b3-d57953b67ecc.png)
