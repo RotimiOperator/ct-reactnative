@@ -9,4 +9,8 @@ expo start
 
 # Alternatively download the React Native APK Test App
 
-- https://github.com/RotimiOperator/ct-reactnative/raw/master/android/Jatodian%20SE.apk
+- Android: [Download APK](https://github.com/RotimiOperator/ct-reactnative/raw/master/android/Jatodian%20SE.apk)
+
+
+# App Screenshot
+
