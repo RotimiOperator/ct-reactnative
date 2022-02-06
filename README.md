@@ -14,3 +14,10 @@ expo start
 
 # App Screenshot
 
+![Screenshot_20220206-194808_Jatodian SE](https://user-images.githubusercontent.com/18402496/152697386-5b3529d0-56aa-4881-8aaf-cfc35715a17e.png)
+
+
+
+# Project Screenshot (ReactJS & ReactNative)
+
+![React App](https://user-images.githubusercontent.com/18402496/152697412-fa830b4c-8b8b-4fc7-88b3-d57953b67ecc.png)
